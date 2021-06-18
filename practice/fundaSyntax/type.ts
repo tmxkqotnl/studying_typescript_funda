@@ -15,6 +15,7 @@ type myType = {
   name: string;
   age: number;
 };
+type alias = myInterface;
 
 const byInterface: myInterface = {
   name: "eastHoon",
