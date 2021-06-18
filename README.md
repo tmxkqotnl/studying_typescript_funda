@@ -13,5 +13,5 @@
 
 ### 참고 TypeScript Handbook
 
-<a href = "https://typescript-kr.github.io/">타입스크립트 공식 핸드북(번역)</a>
+<a href = "https://typescript-kr.github.io/">타입스크립트 공식 핸드북(번역)</a></br>
 <a href = "https://joshua1988.github.io/ts/">캡틴 판교 타입스크립트 핸드북</a>
